@@ -1,0 +1,5 @@
+* Quitar el fondo
+* Se recomiendan 7 frames o más. 
+* Comenzar el dibujo desde x = 0.
+* hacer cuadricula exacta (165px * lado por ejemplo).
+* el tamaño lienzo final debe ser factor entre 2 o algo asi.
