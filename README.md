@@ -1,4 +1,4 @@
-Learning coding games with JavaScrip, following Youtube channel FreeCodeCamp: https://www.youtube.com/watch?v=GFO_txvwK_c
+Learning coding games with **JavaScript**, following Youtube channel FreeCodeCamp: https://www.youtube.com/watch?v=GFO_txvwK_c
 
 <img width="1016" height="574" alt="imagen" src="https://github.com/user-attachments/assets/ff17dc3e-f932-4c27-9c49-e5318e36670e" />
 Go play it: https://stirring-hummingbird-eddb25.netlify.app/
